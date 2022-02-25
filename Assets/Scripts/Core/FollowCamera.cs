@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+namespace RPG.Core 
+{
 public class FollowCamera : MonoBehaviour
 {
 
@@ -17,4 +20,6 @@ public class FollowCamera : MonoBehaviour
         // Camera.main.transform.position = target.position;
 
     }
+}
+
 }

@@ -5,7 +5,9 @@ using UnityEngine.AI;
 
 
 
-public class Mover : MonoBehaviour
+namespace RPG.Movement 
+{
+    public class Mover : MonoBehaviour
 {
     [SerializeField] Transform target; 
     Vector3 destination;
@@ -51,3 +53,7 @@ public class Mover : MonoBehaviour
        
             
 }
+
+
+}
+
