@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 348}
   m_MaxSize: {x: 12006, y: 8048}
   vertical: 0
-  controlID: 14
+  controlID: 67
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -273,7 +273,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 224}
   m_MaxSize: {x: 8004, y: 4024}
   vertical: 0
-  controlID: 16
+  controlID: 49
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -302,7 +302,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: -1276
+  m_LastSelectedObjectID: -1288
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -451,19 +451,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Movement
+    - Assets/Scripts/Combat
   m_ViewMode: 1
   m_StartGridSize: 55
   m_LastFolders:
-  - Assets/Scripts/Movement
+  - Assets/Scripts/Combat
   m_LastFoldersGridSize: 55
   m_LastProjectPath: C:\Users\matta\Documents\unity 3d\RPG
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 259}
-    m_SelectedIDs: 480b0000
-    m_LastClickedID: 2888
+    m_SelectedIDs: f0090000
+    m_LastClickedID: 2544
     m_ExpandedIDs: 000000009e090000aa0a0000d00a00008a0b00000c0c00006a0c000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -517,9 +517,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: 96070000
-    m_LastClickedInstanceID: 1942
-    m_HadKeyboardFocusLastEvent: 0
+    m_SelectedInstanceIDs: f4300000
+    m_LastClickedInstanceID: 12532
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c62300008e3100000000000026430000ec41000060440000200b0000240c0000b80b00002a0b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
